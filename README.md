@@ -1,5 +1,7 @@
-
 # 🏦 Vietnam Bank Churn Prediction Project
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Tools](https://img.shields.io/badge/Tools-Python-blue)
 
 ## ✨ Introduction
 
