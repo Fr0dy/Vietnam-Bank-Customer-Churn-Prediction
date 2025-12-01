@@ -73,3 +73,15 @@ Essential libraries like `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn` a
 *   Seaborn
 *   Scikit-learn
 *   `hashlib` (for PII masking)
+
+---
+
+## 📬 Contact
+
+**Data Analyst** - *Portfolio Project*
+* [LinkedIn](https://www.linkedin.com/in/pham-ngoc-khanh/)
+* [Email](mailto:khanhpn.forwork@gmail.com)
+* [DataKaggle](https://www.kaggle.com/datasets/tranhuunhan/vietnam-bank-churn-dataset-2025)
+
+---
+*Note: This project uses real bank transaction data from Kaggle for demonstration purposes.*
